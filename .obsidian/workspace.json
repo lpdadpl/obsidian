@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "fbb517ef4adfe6b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7aca292cb9f23d98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5227273cb0bdcf67",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c09fcf4105ee5d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4686a832f11a5df3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "223229b449b722b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "33032dda3a17454d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "4e720d69da32dc08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b21303583c3a3a62",
+    "type": "split",
+    "children": [
+      {
+        "id": "a498c8e1babf4900",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab69a44c90687731",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "3b9b81558422e7f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "6110450fde8379ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "b361cb93a144d0ae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "a734d45ca9790fb8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "5227273cb0bdcf67",
+  "lastOpenFiles": [
+    "Guias y Tutoriales/Servidor/Guía sobre Cron y Crontab.md",
+    "Guias y Tutoriales/Servidor/Análisis de Cron MEGA Mirror.md",
+    "Como Escribir en Markdown.md",
+    "Guias y Tutoriales/VMWare/Guia Completa de Virtualizacion.md",
+    "Guias y Tutoriales/Servidor",
+    "Sin nombre",
+    "Guias y Tutoriales/Linux/Gestores de Paquetes.md",
+    "Instalacion Programas Ubuntu/1. Instalaciones programas Ubuntu (archivos ).md",
+    "Guias y Tutoriales/TAI",
+    "Guias y Tutoriales/AWS",
+    "Guias y Tutoriales/VMWare",
+    "Guias y Tutoriales/Desarrollo",
+    "Guias y Tutoriales/Windows",
+    "Guias y Tutoriales/Linux",
+    "Guias y Tutoriales/Ofimatica general",
+    "Guias y Tutoriales",
+    "Instalacion Programas Ubuntu/3. Comparativa rápida.md",
+    "0. Guia de instalacion de aplicaciones en Ubuntu.md",
+    "Instalacion Programas Ubuntu/4. Recomendaciones.md",
+    "Instalacion Programas Ubuntu/2. Instalaciones programas Ubuntu (gestores de paquetes).md",
+    "1. Instalaciones programas Ubuntu (archivos) 1.md",
+    "1. Instalaciones programas Ubuntu (archivos).md"
+  ]
+}
