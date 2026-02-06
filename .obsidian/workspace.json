@@ -11,10 +11,14 @@
             "id": "5227273cb0bdcf67",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Guias y Tutoriales/Servidor/Guía sobre Cron y Crontab.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guía sobre Cron y Crontab"
             }
           }
         ]
@@ -178,8 +182,9 @@
   },
   "active": "5227273cb0bdcf67",
   "lastOpenFiles": [
+    "Guias y Tutoriales/Servidor/Crons/Análisis de Cron MEGA Mirror.md",
+    "Guias y Tutoriales/Servidor/Crons",
     "Guias y Tutoriales/Servidor/Guía sobre Cron y Crontab.md",
-    "Guias y Tutoriales/Servidor/Análisis de Cron MEGA Mirror.md",
     "Como Escribir en Markdown.md",
     "Guias y Tutoriales/VMWare/Guia Completa de Virtualizacion.md",
     "Guias y Tutoriales/Servidor",
@@ -193,7 +198,6 @@
     "Guias y Tutoriales/Windows",
     "Guias y Tutoriales/Linux",
     "Guias y Tutoriales/Ofimatica general",
-    "Guias y Tutoriales",
     "Instalacion Programas Ubuntu/3. Comparativa rápida.md",
     "0. Guia de instalacion de aplicaciones en Ubuntu.md",
     "Instalacion Programas Ubuntu/4. Recomendaciones.md",
