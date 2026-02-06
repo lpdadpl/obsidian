@@ -25,10 +25,14 @@
             "id": "efbbaf678f819d37",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "HOME.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HOME"
             }
           }
         ],
@@ -193,6 +197,7 @@
   },
   "active": "efbbaf678f819d37",
   "lastOpenFiles": [
+    "HOME.md",
     "Guias y Tutoriales/Linux/Indice Linux.md",
     "Guias y Tutoriales/Linux/Instaladores/Indice instaladores.md",
     "Guias y Tutoriales/Linux/Shells/fish/fish.md",
