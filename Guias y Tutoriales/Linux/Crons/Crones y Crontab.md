@@ -35,5 +35,5 @@ Para gestionar tus tareas programadas, se utilizan los siguientes comandos en la
 
 ## Mis Crons
 
-[[Análisis de Cron MEGA Mirror | Sincronizacion con Mega]]
+[[Análisis de Cron MEGA Mirror | Sincronizacion con Mega]]<br>
 [[Sincronización automática de Obsidian-Git| Sincronizacion Obisidian con Git]]
