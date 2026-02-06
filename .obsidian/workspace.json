@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guias y Tutoriales/VMWare/Indice de WmWare.md",
+                "file": "Guias y Tutoriales/Linux/Indice Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Indice de WmWare"
+              "title": "Indice Linux"
             }
           },
           {
@@ -31,7 +31,8 @@
               "title": "Vista gráfica"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,14 +191,26 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "5227273cb0bdcf67",
+  "active": "efbbaf678f819d37",
   "lastOpenFiles": [
-    "Guias y Tutoriales/VMWare/Virtualización y Networking con VMware.md",
+    "Guias y Tutoriales/Linux/Indice Linux.md",
+    "Guias y Tutoriales/Linux/Instaladores/Indice instaladores.md",
+    "Guias y Tutoriales/Linux/Shells/fish/fish.md",
+    "Guias y Tutoriales/Linux/Shells/Indice Shells.md",
+    "Guias y Tutoriales/Linux/Shells/zsh/zsh.md",
+    "Guias y Tutoriales/Linux/Shells/bash/bash.md",
+    "Guias y Tutoriales/Linux/Shells/fish/funciones fish.md",
+    "Guias y Tutoriales/Linux/Shells/fish",
+    "Guias y Tutoriales/Linux/Shells/zsh",
+    "Guias y Tutoriales/Linux/Shells/zsh.md",
+    "Guias y Tutoriales/Linux/Shells/Sin título.md",
+    "Guias y Tutoriales/Linux/Shells/bash",
+    "Guias y Tutoriales/Linux/Shells",
     "Guias y Tutoriales/VMWare/Indice de WmWare.md",
+    "Guias y Tutoriales/VMWare/Virtualización y Networking con VMware.md",
     "Guias y Tutoriales/VMWare/Guia Completa de Virtualizacion.md",
     "Guias y Tutoriales/Linux/Crons/Sincronización automática de Obsidian-Git.md",
     "Guía Completa de Virtualización.md",
-    "Guias y Tutoriales/Linux/Indice Linux.md",
     "Obsidian",
     "Guias y Tutoriales/Linux/Crons/Guía sobre Cron y Crontab.md",
     "Guias y Tutoriales/Linux/Crons/Análisis de Cron MEGA Mirror.md",
@@ -210,10 +223,6 @@
     "Instalacion Programas Ubuntu/1. Instalaciones programas Ubuntu (archivos ).md",
     "Guias y Tutoriales/TAI",
     "Guias y Tutoriales/AWS",
-    "Guias y Tutoriales/VMWare",
-    "Guias y Tutoriales/Desarrollo",
-    "Guias y Tutoriales/Windows",
-    "Guias y Tutoriales/Linux",
     "Instalacion Programas Ubuntu/3. Comparativa rápida.md",
     "Instalacion Programas Ubuntu/4. Recomendaciones.md",
     "Instalacion Programas Ubuntu/2. Instalaciones programas Ubuntu (gestores de paquetes).md",
