@@ -25,10 +25,14 @@
             "id": "5dc2cfb25d0624b1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "type": "markdown",
+              "state": {
+                "file": "Health/Healt Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Healt Index"
             }
           },
           {
@@ -205,8 +209,9 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "223229b449b722b5",
+  "active": "5dc2cfb25d0624b1",
   "lastOpenFiles": [
+    "Health/Healt Index.md",
     "Health",
     "Documentation/Indice Guias.md",
     "Documentation/Desarrollo/Git/Github CLI/Guía CLI de GitHub.md",
@@ -241,7 +246,6 @@
     "Documentation/Linux/Shells/bash",
     "Documentation/Linux/Shells",
     "Documentation/Obsidian",
-    "Documentation/Linux/Instaladores",
-    "Documentation/Linux/Crons"
+    "Documentation/Linux/Instaladores"
   ]
 }
