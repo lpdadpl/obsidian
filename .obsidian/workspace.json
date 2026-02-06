@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Health/Healt Index.md",
+                "file": "Documentation/Redes/VMWare/Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Healt Index"
+              "title": "Concepts"
             }
           },
           {
@@ -211,6 +211,9 @@
   },
   "active": "5dc2cfb25d0624b1",
   "lastOpenFiles": [
+    "Documentation/Redes/VMWare/Fundamentals.md",
+    "Documentation/Redes/VMWare/Concepts.md",
+    "HOME.md",
     "Health/Healt Index.md",
     "Health",
     "Documentation/Indice Guias.md",
@@ -220,7 +223,6 @@
     "Documentation/Linux/Instaladores/Indice instaladores.md",
     "Guias y Tutoriales/Linux/Instaladores/0. Guia de instalacion de aplicaciones en Ubuntu.md",
     "Documentation/Linux/Instaladores/4. Recomendaciones.md",
-    "HOME.md",
     "Documentation/Linux/Shells/Indice Shells.md",
     "Documentation/Linux/Shells/bash/bash.md",
     "Documentation/Linux/Shells/fish/fish.md",
@@ -238,11 +240,9 @@
     "Documentation/Linux/Instaladores/2. Instalaciones programas Ubuntu (gestores de paquetes).md",
     "Documentation/Linux/Instaladores/3. Comparativa rápida.md",
     "Documentation/Redes/VMWare/Indice VMware.md",
-    "Documentation/Redes/VMWare/Fundamentals.md",
     "Documentation/Linux/Shells/fish/funciones fish.md",
     "Documentation/Linux/Shells/fish",
     "Documentation/Linux/Shells/zsh",
-    "Guias y Tutoriales/Linux/Shells/zsh.md",
     "Documentation/Linux/Shells/bash",
     "Documentation/Linux/Shells",
     "Documentation/Obsidian",
