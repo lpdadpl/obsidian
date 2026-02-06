@@ -1,13 +1,11 @@
-# Arquitectura, Networking y VMware
+## Arquitectura, Networking y VMware
 
-## 1. El Cimiento: Del Bare Metal al Host
+### 1. El Cimiento: Del Bare Metal al Host
 
 Todo entorno de computación comienza en el mundo físico. Según las imágenes **2.png** y **3.png**, la base es el **Servidor Físico**.
 
 - **Bare Metal:** Es el hardware "puro" (CPU, RAM, Discos, NICs) sin ningún software.
-    
 - **Host (Anfitrión):** Es el término fundamental. Cuando instalamos un hipervisor sobre el Bare Metal, ese servidor físico pasa a llamarse **Host**. Es el equipo que presta sus recursos reales para que las máquinas virtuales puedan existir.
-    
 
 ---
 
@@ -33,17 +31,11 @@ Las imágenes **6.png**, **7.png** y **8.png** detallan cómo se comunica el Hos
 ### Componentes de Red
 
 - **NIC / vmnic / P.A. (Physical Adapter):** Son los nombres que recibe la tarjeta de red física del servidor. En el software de VMware, una tarjeta física se etiqueta como **vmnic**.
-    
 - **El concepto de UPLINK:** Es el puerto físico que actúa como "puente". Conecta el switch virtual interno del Host con el switch físico real.
-    
 - **Flujo de Comunicación (Imagen 8):**
-    
     - **Ámbito Inferior:** Es la red interna o virtual donde "viven" las máquinas virtuales.
-        
     - **Ámbito Superior:** Es la red física externa (la red de la empresa, el router o Internet).
-        
     - **Definición:** El Uplink es la salida del Ámbito Inferior hacia el Superior.
-        
 
 ---
 
@@ -52,20 +44,15 @@ Las imágenes **6.png**, **7.png** y **8.png** detallan cómo se comunica el Hos
 Finalmente, la imagen **1.jpg** introduce conceptos de despliegue avanzado:
 
 - **HomeLab:** Un laboratorio doméstico diseñado para aprender y probar estas tecnologías sin riesgo para un entorno de producción.
-    
 - **Niveles / Nested (Virtualización Anidada):** Es la técnica de instalar un hipervisor dentro de otro hipervisor (ej. un ESXi dentro de un VMware Workstation). Esto crea "muñecas rusas" de virtualización, permitiendo simular infraestructuras complejas con un solo servidor físico.
-    
 - **Cluster:** Agrupación de varios **Hosts** físicos que comparten recursos y ofrecen alta disponibilidad (si un Host muere, las VMs arrancan en otro).
-    
 
 ---
 
 ### Resumen de Relaciones
 
 1. El **Bare Metal** se convierte en **Host** al instalar **ESXi**.
-    
 2. El **Host** utiliza sus **vmnics** como **Uplinks**.
-    
 3. El **Uplink** permite que las máquinas virtuales pasen del **Ámbito Inferior** al **Superior**.
-    
-4. En un **HomeLab**, podemos usar técnicas **Nested** para practicar sin necesidad de comprar múltiples servidores físicos.
+4. En un **HomeLab**, podemos 
+5. usar técnicas **Nested** para practicar sin necesidad de comprar múltiples servidores físicos.

@@ -36,4 +36,4 @@ Para gestionar tus tareas programadas, se utilizan los siguientes comandos en la
 ## Mis Crons
 
 [[Análisis de Cron MEGA Mirror | Sincronizacion con Mega]]
-[[0. Guia de instalacion de aplicaciones en Ubuntu | Sincronizacion Obisidian con Git]]
+[[Sincronización automática de Git con cron y función fish| Sincronizacion Obisidian con Git]]
