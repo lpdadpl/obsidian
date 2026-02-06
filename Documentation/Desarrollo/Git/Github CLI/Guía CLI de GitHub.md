@@ -34,11 +34,11 @@ Para inicializar un proyecto local y enviarlo a GitHub de forma inmediata, sigue
 
 2. Usa el comando de creación remota:
 
-    ◦ **--private** **/** **--public**: Define la visibilidad del repositorio.
+    ◦ **private** **/** **--public**: Define la visibilidad del repositorio.
 
-    ◦ **--source=.**: Indica que debe subir el contenido del directorio actual.
+    ◦ **source=.**: Indica que debe subir el contenido del directorio actual.
 
-    ◦ **--push**: Realiza el primer envío de datos automáticamente.
+    ◦ **push**: Realiza el primer envío de datos automáticamente.
 
 **Trabajar con repositorios existentes**
 

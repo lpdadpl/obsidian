@@ -13,26 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guias y Tutoriales/Desarrollo/Git/Github CLI/Guía Completa de la CLI de GitHub.md",
+                "file": "Documentation/Desarrollo/Git/Github CLI/Guía CLI de GitHub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guía Completa de la CLI de GitHub"
+              "title": "Guía CLI de GitHub"
             }
           },
           {
             "id": "5dc2cfb25d0624b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guias y Tutoriales/Indice Guias.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Indice Guias"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           },
           {
@@ -41,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guias y Tutoriales/Obsidian/Indice Obsidian.md",
+                "file": "Documentation/Obsidian/Indice Obsidian.md",
                 "mode": "source",
                 "source": false
               },
@@ -49,7 +45,8 @@
               "title": "Indice Obsidian"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 319.5
   },
   "right": {
     "id": "b21303583c3a3a62",
@@ -208,43 +205,43 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "b30fa7166733d687",
+  "active": "223229b449b722b5",
   "lastOpenFiles": [
-    "Guias y Tutoriales/Desarrollo/Git/Github CLI/Guía Completa de la CLI de GitHub.md",
-    "Guias y Tutoriales/Desarrollo/Indice Desarrollo.md",
-    "Guias y Tutoriales/Desarrollo/Git/Indice Git.md",
-    "Guias y Tutoriales/Linux/Instaladores/Indice instaladores.md",
+    "Health",
+    "Documentation/Indice Guias.md",
+    "Documentation/Desarrollo/Git/Github CLI/Guía CLI de GitHub.md",
+    "Documentation/Desarrollo/Indice Desarrollo.md",
+    "Documentation/Desarrollo/Git/Indice Git.md",
+    "Documentation/Linux/Instaladores/Indice instaladores.md",
     "Guias y Tutoriales/Linux/Instaladores/0. Guia de instalacion de aplicaciones en Ubuntu.md",
-    "Guias y Tutoriales/Linux/Instaladores/4. Recomendaciones.md",
+    "Documentation/Linux/Instaladores/4. Recomendaciones.md",
     "HOME.md",
-    "Guias y Tutoriales/Linux/Shells/Indice Shells.md",
-    "Guias y Tutoriales/Linux/Shells/bash/bash.md",
-    "Guias y Tutoriales/Linux/Shells/fish/fish.md",
-    "Guias y Tutoriales/Linux/Shells/zsh/zsh.md",
-    "Guias y Tutoriales/Obsidian/Indice Obsidian.md",
-    "Guias y Tutoriales/Obsidian/MarkdownTutorial.md",
-    "Guias y Tutoriales/Indice Guias.md",
+    "Documentation/Linux/Shells/Indice Shells.md",
+    "Documentation/Linux/Shells/bash/bash.md",
+    "Documentation/Linux/Shells/fish/fish.md",
+    "Documentation/Linux/Shells/zsh/zsh.md",
+    "Documentation/Obsidian/Indice Obsidian.md",
+    "Documentation/Obsidian/MarkdownTutorial.md",
     "MarkdownTutorial.md",
     "Guias y Tutoriales/Linux/Shells/Sin título.md",
-    "Guias y Tutoriales/Linux/Indice Linux.md",
-    "Guias y Tutoriales/Desarrollo/Git/Github CLI",
-    "Guias y Tutoriales/Desarrollo/Git",
-    "Guias y Tutoriales/Desarrollo",
-    "Guias y Tutoriales/Redes/Indice Redes.md",
-    "Guias y Tutoriales/Linux/Instaladores/1. Instalaciones programas Ubuntu (archivos ).md",
-    "Guias y Tutoriales/Linux/Instaladores/2. Instalaciones programas Ubuntu (gestores de paquetes).md",
-    "Guias y Tutoriales/Linux/Instaladores/3. Comparativa rápida.md",
-    "Guias y Tutoriales/Redes/VMWare/Indice VMware.md",
-    "Guias y Tutoriales/Redes/VMWare/Fundamentals.md",
-    "Guias y Tutoriales/Linux/Shells/fish/funciones fish.md",
-    "Guias y Tutoriales/Linux/Shells/fish",
-    "Guias y Tutoriales/Linux/Shells/zsh",
+    "Documentation/Linux/Indice Linux.md",
+    "Documentation/Desarrollo/Git/Github CLI",
+    "Documentation/Desarrollo/Git",
+    "Documentation/Desarrollo",
+    "Documentation/Redes/Indice Redes.md",
+    "Documentation/Linux/Instaladores/1. Instalaciones programas Ubuntu (archivos ).md",
+    "Documentation/Linux/Instaladores/2. Instalaciones programas Ubuntu (gestores de paquetes).md",
+    "Documentation/Linux/Instaladores/3. Comparativa rápida.md",
+    "Documentation/Redes/VMWare/Indice VMware.md",
+    "Documentation/Redes/VMWare/Fundamentals.md",
+    "Documentation/Linux/Shells/fish/funciones fish.md",
+    "Documentation/Linux/Shells/fish",
+    "Documentation/Linux/Shells/zsh",
     "Guias y Tutoriales/Linux/Shells/zsh.md",
-    "Guias y Tutoriales/Linux/Shells/bash",
-    "Guias y Tutoriales/Linux/Shells",
-    "Guias y Tutoriales/VMWare/Indice de WmWare.md",
-    "Guias y Tutoriales/Obsidian",
-    "Guias y Tutoriales/Linux/Instaladores",
-    "Guias y Tutoriales/Linux/Crons"
+    "Documentation/Linux/Shells/bash",
+    "Documentation/Linux/Shells",
+    "Documentation/Obsidian",
+    "Documentation/Linux/Instaladores",
+    "Documentation/Linux/Crons"
   ]
 }
