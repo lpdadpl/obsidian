@@ -1,3 +1,3 @@
-[[Guía Completa de Virtualización| Virtualizacion]]
-
+[[Guia Completa de Virtualizacion]]
+[[Virtualización y Networking con VMware]]
 
