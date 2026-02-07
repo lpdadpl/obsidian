@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "317b57695d3cf978",
+        "id": "9f33dbc5049bfb21",
         "type": "tabs",
         "children": [
           {
-            "id": "b30fa7166733d687",
+            "id": "44a99f7f424663bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Desarrollo/Git/Github CLI/Guía CLI de GitHub.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Guía CLI de GitHub"
-            }
-          },
-          {
-            "id": "5dc2cfb25d0624b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Redes/VMWare/Concepts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Concepts"
-            }
-          },
-          {
-            "id": "a144adf7cabe2e18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Obsidian/Indice Obsidian.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Indice Obsidian"
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,15 +176,16 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "5dc2cfb25d0624b1",
+  "active": "44a99f7f424663bf",
   "lastOpenFiles": [
-    "Documentation/Redes/VMWare/Fundamentals.md",
+    "Documentation/Desarrollo/Git/Github CLI/Guía CLI de GitHub.md",
     "Documentation/Redes/VMWare/Concepts.md",
+    "Documentation/Obsidian/Indice Obsidian.md",
+    "Documentation/Redes/VMWare/Fundamentals.md",
     "HOME.md",
     "Health/Healt Index.md",
     "Health",
     "Documentation/Indice Guias.md",
-    "Documentation/Desarrollo/Git/Github CLI/Guía CLI de GitHub.md",
     "Documentation/Desarrollo/Indice Desarrollo.md",
     "Documentation/Desarrollo/Git/Indice Git.md",
     "Documentation/Linux/Instaladores/Indice instaladores.md",
@@ -227,7 +195,6 @@
     "Documentation/Linux/Shells/bash/bash.md",
     "Documentation/Linux/Shells/fish/fish.md",
     "Documentation/Linux/Shells/zsh/zsh.md",
-    "Documentation/Obsidian/Indice Obsidian.md",
     "Documentation/Obsidian/MarkdownTutorial.md",
     "MarkdownTutorial.md",
     "Guias y Tutoriales/Linux/Shells/Sin título.md",
